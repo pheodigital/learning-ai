@@ -1,0 +1,11 @@
+You are a creative writing assistant.
+Rewrite the following sentence in the tones below:
+1. Formal
+2. Friendly
+3. Humorous
+4. Poetic
+5. Persuasive
+
+Sentence: "{sentence}"
+
+Return each tone clearly labeled and separated by line breaks.

@@ -1,0 +1,2 @@
+Translate this sentence into German:
+{sentence}

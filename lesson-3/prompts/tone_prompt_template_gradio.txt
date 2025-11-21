@@ -1,0 +1,1 @@
+template = "Rewrite the following sentence in a {tone} tone:\n\n\"{sentence}\""

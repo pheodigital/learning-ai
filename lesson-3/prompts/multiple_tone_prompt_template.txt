@@ -1,0 +1,6 @@
+Rewrite the following sentence in three tones:
+1. Formal
+2. Friendly
+3. Playful
+
+Sentence: {sentence}

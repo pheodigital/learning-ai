@@ -1,1 +1,10 @@
+# Core
+langgraph>=1.0.0
+langchain>=1.0.0
 
+# Typing helpers (safe across Python 3.10–3.13)
+typing-extensions>=4.8.0
+# Example third-party additions
+python-dotenv>=1.0.0
+pydantic>=2.8.0
+httpx>=0.27.0

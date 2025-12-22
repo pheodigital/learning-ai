@@ -1,0 +1,19 @@
+{
+  "name": "langgraph-fundamentals",
+  "description": "Simple LangGraph Python app to learn nodes, edges, state, and flow control.",
+  "entrypoint": "src/mini_graph.py",
+  "language": "python",
+  "dependencies": ["langgraph", "langchain"],
+  "python": "3.11",
+  "env": {
+    "DOTENV_PATH": ".env"
+  },
+  "graph": {
+    "basic_router": "src.mini_graph:graph",
+    "module": "src.mini_graph",
+    "object": "graph"
+  },
+  "tools": [],
+  "author": "your-name",
+  "version": "0.1.0"
+}

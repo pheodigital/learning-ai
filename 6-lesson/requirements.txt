@@ -1,9 +1,0 @@
-langchain-core
-langchain
-langchain-text-splitters
-langchain-ollama
-langchain-classic
-langchain-community
-chromadb
-pypdf
-streamlit

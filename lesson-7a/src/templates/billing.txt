@@ -1,0 +1,10 @@
+Hello {customer_name},
+
+Your billing question:
+
+- Refund processed: {date}
+- Check status: [link]
+- Questions? Reply here.
+
+Thanks,
+Billing Team

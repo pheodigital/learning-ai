@@ -1,0 +1,12 @@
+Hi {customer_name},
+
+Thanks for reporting the technical issue. Here's what to try:
+
+1. Clear cache: Ctrl+Shift+R
+2. Update to latest version
+3. Check our [status page](https://status.example.com)
+
+If still broken, reply with error screenshot.
+
+Best,
+Tech Support

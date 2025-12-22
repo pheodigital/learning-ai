@@ -1,0 +1,16 @@
+{
+  "name": "email-responder",
+  "description": "Customer support email agent with Qwen3",
+  "language": "python",
+  "dependencies": ["langgraph", "langchain", "langchain-ollama"],
+  "env": {
+    "DOTENV_PATH": ".env"
+  },
+  "graphs": {
+    "email_router": "src.agent:graph",
+    "object": "graph"
+  },
+  "tools": [],
+  "author": "your-name",
+  "version": "0.1.0"
+}

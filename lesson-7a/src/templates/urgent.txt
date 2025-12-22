@@ -1,0 +1,8 @@
+Dear {customer_name},
+
+URGENT: Our team is working on your payment issue right now and will resolve within 1 hour.
+
+Please hold tight - priority escalation complete.
+
+Best,
+Support Team
